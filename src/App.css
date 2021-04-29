@@ -1,0 +1,36 @@
+.tabel {
+  background-color: rgb(250, 185, 111);
+  padding-left: 20%;
+  padding-top: 9%;
+  padding-right: 20%;
+  padding-bottom: 20%;
+}
+
+table,
+th,
+td,
+tr {
+  /* border: 1px solid black; */
+  text-align: center;
+  background-color: rgb(197, 195, 195);
+}
+
+td,
+th {
+  text-align: center;
+}
+
+td,
+th {
+  border: 1px solid rgba(8, 8, 8, 0.844);
+  padding: 20px;
+}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  font-size: 25px;
+  background-color: #ffa600;
+  color: white;
+}
